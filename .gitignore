@@ -1,0 +1,17 @@
+target/
+build/
+.idea/
+.gradle/
+*.iml
+*.ipr
+*.iws
+project/target
+/appspec.yml
+/generated-code
+/authorization-api-*.conf
+project/target/
+/logs
+*.swp
+testfile
+~$*
+.DS_Store
